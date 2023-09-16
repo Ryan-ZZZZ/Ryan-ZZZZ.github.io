@@ -1,7 +1,7 @@
 ---
-title: "."
+title: "Ryan Zhao"
 ---
 
-This is a Quarto website.
+This is a personal website of Ryan Zhao.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Ryan Zhao currently studies at the Master of Data Science -- Computational Linguistic program at the University of British Columbia.
